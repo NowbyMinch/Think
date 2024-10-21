@@ -28,6 +28,10 @@ body{
     border-radius: 40px;
 }
 
+.perfil:hover{
+    cursor: pointer;
+}
+
 .circle{
     display: flex;
     margin-top: 140px;
